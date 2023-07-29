@@ -4,7 +4,7 @@ on:
     branches:
       - master # check your repo, your default branch might be master!
  
-jobs:
+jobs: 
   build:
     runs-on: ubuntu-latest
     steps:
